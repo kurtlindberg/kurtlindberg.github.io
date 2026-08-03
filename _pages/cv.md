@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* August 2025 - Ph.D in Geological Sciences, University at Buffalo, Department of Earth Sciences
+* May 2020 - B.S. in Geology, University of Massachusetts Amherst
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* _starting September 2026_: Research Assistant I (Lab Technician)
+  * Harvard University, Department of Human Evolutionary Biology, Uno Terrestrial Paleoecology Laboratory
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2025 - June 2026: Postdoctoral Research Scientist
+  * University at Buffalo, Department of Earth Sciences
+  * Developing a physics-informed machine learning model for emulating lake water temperatures based on weather data inputs
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2025 - June 2026: Instructional Support Technician
+  * University at Buffalo, Department of Earth Sciences
+  * Maintaining shared departmental research facilities for geologic sample preparation. Managing departmental vehicle logistics, geologic equipment training, and IT services.
+
+* June 2023 - August 2025: Graduate Research Assistant
+  * University at Buffalo, Department of Earth Sciences, Organic and Stable Isotope Biogeochemistry Laboratory
+  * Analyzing plant leaf wax carbon chain-length distributions, stable carbon isotopes, and stable hydrogen isotopes from lake sediments, soils, and plants from the Eastern Canadian Arctic.
+
+* June 2023 - August 2025: Graduate Ambassador
+  * University at Buffalo, College of Arts and Sciences
+  * Aiding prospective students applying to graduate programs in the College of Arts and Sciences through Q&A webinars and online chat platforms. Creating media content promoting daily life as a graduate student at the University at Buffalo.
+
+* August 2020 - May 2023: Graduate Teaching Assistant
+  * University at Buffalo, Department of Earth Sciences
+  * Assisted in the instruction, curriculum preparation, and grading for 5 different courses with students ranging from freshman non-majors to senior undergraduates and graduates.
 
 Publications
 ======
@@ -59,6 +57,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
